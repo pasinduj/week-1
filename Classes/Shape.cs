@@ -5,7 +5,7 @@ namespace Week1ObjectOriented.Classes
     {
         private int area;
 
-        public abstract int GetArea();
+        public abstract double GetArea();
        
 
         public void SetArea(int Area)
